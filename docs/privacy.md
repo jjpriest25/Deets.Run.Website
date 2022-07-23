@@ -54,6 +54,9 @@ You hereby indemnify us and undertake to keep us indemnified against any losses,
 
 Although most changes are likely to be minor, Deets.Run may change its Privacy Policy from time to time. We encourage visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we will notify you by revising the change log below. Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy.
 
+### Other Information
+Deets.Run is designed and developed by Light Stigma LLC. To contact us, reach us via deets@lightstigma.com.
+
 ### Change log
 
 *   _July 23, 2022:_ Privacy Policy Created.
