@@ -1,62 +1,51 @@
-Your privacy is critically important to us. Deets.Run has the following guiding philosophy:
+**Privacy Policy**
 
-*   Personal information, including health and running data, is used only within the Deets.Run app. 
-*   We do not transmit or store personal information outside of the Deets.Run app.
+Light Stigma LLC built the Deets.Run app as a Commercial app. This SERVICE is provided by Light Stigma LLC and is intended for use as is.
 
-### Creative Commons Sharealike License
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
-This policy is adapted via the [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/4.0/) license from [Automattic](https://automattic.com/privacy/).
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-### Information We Collect
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Deets.Run unless otherwise defined in this Privacy Policy.
 
-We only collect information about you for the purposes of providing visualizations, metrics, or features within the Deets.Run app. This information is only used in-app and at no point do we transmit it outside the app.
-There are 2 categories of information:
+**Information Collection and Use**
 
-#### _Information You Provide to Us_
+Deets.Run uses your Health and Workout Data to provide the core functionality of the app. Your privacy is of utmost importance to us. This information is only used and stored on your personal device or your private iCloud backups. This information is not transferred to us or anyone else, and we retain no Health and  Workout information about you.
 
-*   **Health and Workout Data you manually enter in app:** Optionally, you may enter metrics about your health data. This information is used only for providing functionality in-app.
+**Log Data**
 
-#### _Information We Collect From HealthKit_
+We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
-*   **Healthkit:** Utilizing Apple's privacy settings, you may grant Deets.Run access to HealthKit metrics, which is  necessary for Deets.Run to analyze and visualize workouts recorded via Apple Watch.
+**Cookies**
 
-### How and Why We Use Information
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-#### _Purposes for Using Information_
+This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
-We only use this information to provide functionality within the Deets.Run app.
+**Service Providers**
 
-### Sharing Information
+We do not work with advertisers or disclose personal information to 3rd party service providers.
 
-#### _How We Share Information_
+**Security**
 
-We do not share your personal information.
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
-### Your Rights
+**Links to Other Sites**
 
-If you are located in certain parts of the world, including California and countries that fall under the scope of the European General Data Protection Regulation (aka the “GDPR”), you may have certain rights regarding your personal information, like the right to request access to or deletion of your data.
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-Please note in respect to these rights that Deets.Run does not transmit or store any personal information outside of the Deets.Run app.
+**Children’s Privacy**
 
-#### _California Consumer Privacy Act (CCPA)_
+We do not knowingly collect personally identifiable information from children. We encourage all children to never submit any personally identifiable information through the Application and/or Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to us through the Application and/or Services, please contact us. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
 
-We comply with CCPA and will not distribute your personal information to outside parties.
+**Changes to This Privacy Policy**
 
-### Limited Warranties
-We make our best effort to ensure your data, metrics, and visualizations are as accurate as possible, but we make no guarantees. 
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-To the maximum extent permitted by applicable law, we exclude all representations, warranties and conditions relating to the Deets.Run app and the use of Deets.Run (including, without limitation, any warranties implied by law in respect of satisfactory quality, fitness for purpose and/or the use of reasonable care and skill).
+This policy is effective as of 2022-08-31
 
-### Indemnity
-You hereby indemnify us and undertake to keep us indemnified against any losses, damages, costs, liabilities and expenses (including without limitation legal expenses and any amounts paid by us to a third party in settlement of a claim or dispute on the advice of our legal advisers) incurred or suffered by us arising out of any breach by you of any provision of these terms and conditions, or arising out of any claim that you have breached any provision of these terms and conditions.
+**Contact Us**
 
-### Privacy Policy Changes
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at deets@lightstigma.com.
 
-Although most changes are likely to be minor, Deets.Run may change its Privacy Policy from time to time. We encourage visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we will notify you by revising the change log below. Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy.
-
-### Other Information
-Deets.Run is designed and developed by Light Stigma LLC. To contact us, reach us via deets@lightstigma.com.
-
-### Change log
-
-*   _July 23, 2022:_ Privacy Policy Created.
+This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
