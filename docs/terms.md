@@ -58,7 +58,7 @@
 
 - Invoicing and Payment. All payments for subscriptions shall be made via the Apple App Store, and may be subject to additional terms as set forth in App Store Terms of Service.
 
-- Payment Disputes. The term for the purchased subscription will be annually. The cost of the subscription is subject to change without notice to the unsubscribed Users. A user may cancel the subscription, and the app will continue to offer "Deets Pro" features until the end of the subscription cycle.
+- Payment Disputes. The term for the purchased subscription will be as described in the App Store product page at the time of purchase. The cost of the subscription is subject to change without notice to the unsubscribed Users. A user may cancel the subscription, and the app will continue to offer "Deets Pro" features until the end of the subscription cycle.
 
 - Taxes. Aside from that which the App Store provides, our fees do not include any taxes, levies, duties or similar governmental assessments of any nature, including, for example, value-added, sales, use or withholding taxes, assessable by any jurisdiction whatsoever (collectively, "Taxes"). You are responsible for paying all Taxes associated with Your purchases hereunder. For clarity, We are solely responsible for taxes assessable against Us based on Our income, property, and employees.
 
